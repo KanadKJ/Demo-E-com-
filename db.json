@@ -1,0 +1,131 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "companyName": "Bailey 44",
+            "productName": "Bailey 44 Sweat Shirt",
+            "price": "845",
+            "description": "jasda acjs cja scja scaijsbcjashca cajscica shcauisvcuia sioa",
+            "category": "Sweet Shirt",
+            "imagePath": "https://i.pinimg.com/564x/1c/cd/b5/1ccdb5617edb017b0c4bb523d3ca9155.jpg",
+            "productId": "1FW"
+        },
+        {
+            "id": 2,
+            "companyName": "GARCONSHOMME",
+            "productName": "GARCONSHOMME Wool Trousers",
+            "price": "750",
+            "description": "jasda acjs cja scja scaijsbcjashca cajscica shcauisvcuia sioa",
+            "category": "Trousers",
+            "imagePath": "https://i.pinimg.com/564x/0d/54/59/0d54595ec6aebffec622da151372b476.jpg",
+            "productId": "2FW"
+        },
+        {
+            "id": 3,
+            "companyName": "Anniecloth",
+            "productName": "Anniecloth T-Shirt",
+            "price": "1099",
+            "description": "Basic Men's Shirts is fashionable and cheap, come to Anniecloth to find out about the Clothing",
+            "category": "T-Shirt",
+            "imagePath": "https://i.pinimg.com/564x/21/b6/bc/21b6bca063e3f8c4e2f638c7ef3478d4.jpg",
+            "productId": "2FW"
+        },
+        {
+            "id": 4,
+            "companyName": "GARCONS HOMME",
+            "productName": "GARCONS HOMME Casual Shirt",
+            "price": "999",
+            "description": "jasda acjs cja scja scaijsbcjashca cajscica shcauisvcuia sioa",
+            "category": "Shirt",
+            "imagePath": "https://i.pinimg.com/564x/d5/b8/17/d5b8171a67abf51c64a4585a8874dd96.jpg",
+            "productId": "2FW"
+        },
+        {
+            "id": 5,
+            "companyName": "New chicstylist",
+            "productName": "vintage-tshirt",
+            "price": "1250",
+            "description": "jasda acjs cja scja scaijsbcjashca cajscica shcauisvcuia sioa",
+            "category": "T-Shirt",
+            "imagePath": "https://i.pinimg.com/564x/83/a9/8b/83a98b0b1f830017dc1a72adbc9abaf1.jpg",
+            "productId": "2FW"
+        },
+        {
+            "id": 6,
+            "companyName": "His.Boutique",
+            "productName": "Flight Bomber Jacket",
+            "price": "1530",
+            "description": "If you want a jacket that looks as amazing on as it feels, this flight bomber jacket is right for you. The stand collar, rib sleeve, and polyester material come together to make this a fabulous jacket that you will love wearing to the office or out on the town.",
+            "category": "Jacket",
+            "imagePath": "https://i.pinimg.com/564x/85/74/1e/85741eee7fee13da7975383fbb8e4117.jpg",
+            "productId": "2FW"
+        },
+        {
+            "id": 7,
+            "companyName": "Streetwear",
+            "productName": "Men's Jacket",
+            "price": "1999",
+            "description": "New Spring Autumn Men's Jacket Fashion Casual Streetwear Hooded Jacket Windbreaker Coat Male Outwear Camouflage Hip Hop Clothes",
+            "category": "Jacket",
+            "imagePath": "https://i.pinimg.com/564x/3a/3a/47/3a3a47596f4ee69b7c41f2b839a94514.jpg",
+            "productId": "2FW"
+        },
+        {
+            "id": 8,
+            "companyName": "Zudio",
+            "productName": "Men's Jacket",
+            "price": "1900",
+            "description": "jasda acjs cja scja scaijsbcjashca cajscica shcauisvcuia sioa",
+            "category": "Jacket",
+            "imagePath": "https://i.pinimg.com/564x/f0/fc/77/f0fc7773ab54983bb6e9e37d3b14c422.jpg",
+            "productId": "2FW"
+        },
+        {
+            "id": 9,
+            "companyName": "Windbreaker",
+            "productName": "Men's Jacket",
+            "price": "1200",
+            "description": "Mens Jacket Hooded Bomber Jacket Streetwear Print Windbreaker Male Autumn Coats",
+            "category": "Jacket",
+            "imagePath": "https://i.pinimg.com/564x/18/89/17/1889175624b5d89f24def19648275766.jpg",
+            "productId": "2FW"
+        },
+        {
+            "id": 10,
+            "companyName": "Waliicorners",
+            "productName": "Mink Fleece Sweater",
+            "price": "2100",
+            "description": "Waliicorners Mink Fleece Sweater Sweater Thicken Men's Half Turtleneck Pullover Sweater Warm Brushed Men - Waliicorner's StoreStore WaliiCorners avatar link Store WaliiCorners",
+            "category": "Sweater",
+            "imagePath": "https://i.pinimg.com/564x/8e/da/95/8eda95b467f1981b2a6e26c0e20510b8.jpg",
+            "productId": "2FW"
+        },
+        {
+            "id": 11,
+            "companyName": "Windbreaker",
+            "productName": "Jacket",
+            "price": "1099",
+            "description": "Fleece Jacket Boy Windbreaker Description Our Fleece Jacket Boy Windbreaker is made of blending chemical fiber, with sweat blocking function and suitable for different seasons. It has a professional & More",
+            "category": "Jacket",
+            "imagePath": "https://i.pinimg.com/564x/94/0f/5d/940f5dcc350a380dae9cddd45c8616cf.jpg",
+            "productId": "2FW"
+        },
+        {
+            "id": 12,
+            "companyName": "Veste Coréenne",
+            "productName": "Jacket",
+            "price": "3100",
+            "description": "La veste coréenne est une veste légère idéale pour les journées chaudes et les nuits fraîches. Elle comporte plusieurs poches à l'avant pour ranger vos objets essentiels. Matière : Coton, Polyester Scène applicable : Quotidiennement Type de fermeture : fermeture à glissière Type d'article : Vêtements d'extérieur et manteaux Capuche : Oui LIVRAISON STANDARD OFFERTE Si vous aimez cette veste, vous aimeriez peut-être cette veste en laine pour hommes. Dans le même style, testez notre très populaire",
+            "category": "Jacket",
+            "imagePath": "https://i.pinimg.com/564x/a3/bd/2d/a3bd2dc670a4e692fa469a4ebd5c81c5.jpg",
+            "productId": "2FW"
+        }
+    ],
+    "wishist": [
+        {}
+    ],
+    "orders": [
+        {}
+    ],
+    "cart": []
+}
